@@ -6,15 +6,16 @@
 	width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-	border: 1px solid;
+	border: 0px solid;
 }
 
 .activity {
-	border: 1px solid;
+	border: 0px solid;
 	text-align: center;
 	font-family: Helvetica;
+	margin-bottom: 20px;
 }
 	.activity iframe {
 		width: 800px;
-		height: 500px;
+		height: 900px;
 	}
