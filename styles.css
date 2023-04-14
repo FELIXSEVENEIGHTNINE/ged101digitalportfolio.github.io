@@ -9,6 +9,10 @@
 	border: 0px solid;
 }
 
+.student {
+	font-family: Helvetica;
+}
+
 .activity {
 	border: 0px solid;
 	text-align: center;
